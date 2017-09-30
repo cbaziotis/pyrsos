@@ -1,0 +1,10 @@
+.idea/
+dist/
+build/
+*.egg-info/
+classes/__pycache__
+*.pyc
+!/**/.gitkeep
+/local_install.bat
+/local_install.sh
+/pypi_push.sh
