@@ -1,2 +1,4 @@
-setuptools==36.2.5
 torch==0.2.0.post4
+setuptools==36.2.5
+numpy==1.13.1
+visdom==0.1.5

@@ -8,3 +8,4 @@ classes/__pycache__
 /local_install.bat
 /local_install.sh
 /pypi_push.sh
+/pyrsos/proto/*

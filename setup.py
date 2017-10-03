@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='pyrsos',
-      version='0.1.2',
+      version='0.2.1',
       description='PyTorch helper functions.',
       url='https://github.com/cbaziotis/pyrsos',
       author='Christos Baziotis',
