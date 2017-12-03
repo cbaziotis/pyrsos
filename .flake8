@@ -26,3 +26,5 @@ ignore =
     E999,
     # F821 undefined name
     F821,
+    # W503 line break before binary operator
+    W503,
